@@ -14,7 +14,9 @@ image_metadata:
   credit: Image courtesy of Andrew Hyde on flickr. License CC BY.
   image-alt: A photo of a ferris wheel with the words, "Mr. Robot" on it. In the foreground
     are two walls plastered with posters from the TV series.
+learning_resource_types: []
 resourcetype: Image
 title: ' Mr. Robot marketing display (thumbnail)'
+type: OCWImage
 uid: 77fc884a-7864-5511-2c69-133f83df790b
 ---
