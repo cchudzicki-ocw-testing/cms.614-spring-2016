@@ -17,6 +17,5 @@ image_metadata:
 learning_resource_types: []
 resourcetype: Image
 title: ' Mr. Robot marketing display (thumbnail)'
-type: OCWImage
 uid: 77fc884a-7864-5511-2c69-133f83df790b
 ---
