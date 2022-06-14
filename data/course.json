@@ -43,7 +43,9 @@
   },
   "course_title": "Network Cultures",
   "course_description": "This course focuses on the social and cultural aspects of networked life through internet-related technologies (including computers, mobile devices, entertainment technologies, and emerging media forms).\n",
-  "department_numbers": [],
+  "department_numbers": [
+    "CMS-W"
+  ],
   "extra_course_numbers": "21W.791,CMS.867",
   "primary_course_number": "CMS.614",
   "course_image_thumbnail": {
