@@ -15,6 +15,7 @@ image_metadata:
   image-alt: A photo of a ferris wheel with the words, "Mr. Robot" on it. In the foreground
     are two walls plastered with posters from the TV series.
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 resourcetype: Image
 title: ' Mr. Robot marketing display (thumbnail)'
